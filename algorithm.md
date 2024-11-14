@@ -6,7 +6,7 @@
 * name: read_filename
 * Parameters: none
 * Return: f_name
-* algorithm:
+* algorithm:.
   1. 
 
 

@@ -1,7 +1,7 @@
 import os
 
 
-# Purpose:  reads filename
+# Purpose:  reads filename.
 # Parameters: none
 # Return: f_name
 def read_filename():
