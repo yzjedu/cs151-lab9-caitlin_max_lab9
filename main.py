@@ -48,6 +48,7 @@ def seat_placement(names):
 # Parameters: none
 # Return: none
 def main():
+    print('This code displays a seating chart using the files entered.')
     f_name = read_filename()
     names = file_list(f_name)
     seat_placement(names)
