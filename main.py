@@ -1,5 +1,13 @@
 import os
-
+# Programmers:  Caitlin Burns Max Rice
+# Course:  CS151, professor Zee
+# Due Date: 11/14
+# Lab Assignment:  9
+# Problem Statement:  prints seating chart
+# Data In: file names
+# Data Out: seating chart
+# Credits: read me file
+# Input Files: isaacman, yalew, nweke
 
 # Purpose:  reads filename.
 # Parameters: none
