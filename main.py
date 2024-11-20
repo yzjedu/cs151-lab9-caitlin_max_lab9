@@ -23,11 +23,13 @@ def read_filename():
 # Parameters: f_name
 # Return: names
 def file_list(f_name):
-    fd = open(f_name, 'r')
-    names = fd.readlines()
-    fd.close()
-    return names
-
+    try:
+        fd = open(f_name, 'r')
+        names = fd.readlines()
+        fd.close()
+        return names
+    except:
+        print('Error')
 # Purpose: prints seat assignment
 # Parameters: names
 # Return: none
