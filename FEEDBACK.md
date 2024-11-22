@@ -24,7 +24,7 @@
 | **YES-** | Asks the user for an input file name                                                    |
 | **YES-** | Asks user to try again if input file name doesn't exist (try `bbb.txt`)                 |
 | **YES-** | Works  with `yalew.txt`, `sibren.txt`, and `nweke.txt`. |
-| **YES-** | The number of tables should be the length of file divided by 5 |
+| **NO-** | The number of tables should be the length of file divided by 5 |
 | **YES-** | Try all three files again. Each table should have 5 people at each table                |
 | **-NO** | Output of assignments has `~~~~~` lines between each, or something similar              |
 | **YES-** | For each person, it lists Table number, Seat number, Name                               |
@@ -52,9 +52,9 @@
 |**YES-** | Algorithm      |
 
 ### Comments on the grading
-- file_list function does not use try-except 
-- 
-- 
+- file_list function does not use try-except : updated
+- The total number of tables is not displayed
+- First one does not have ~~~~~ 
 
 ### Grade: M
 
